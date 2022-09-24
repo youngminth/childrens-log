@@ -7,11 +7,11 @@
 
         <variable
             name="data"
-            type="com.aregyan.github.domain.UserListItem" />
+            type="com.youngminth.childrensLog.domain.UserListItem" />
 
         <variable
             name="clickListener"
-            type="com.aregyan.github.views.userList.ClickListener" />
+            type="com.youngminth.childrensLog.views.userList.ClickListener" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

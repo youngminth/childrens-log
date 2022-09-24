@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.aregyan.github.views.userDetails.UserDetailsViewModel" />
+            type="com.youngminth.childrensLog.views.userDetails.UserDetailsViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

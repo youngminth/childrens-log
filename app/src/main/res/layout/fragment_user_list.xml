@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.aregyan.github.views.userList.UserListViewModel" />
+            type="com.youngminth.childrensLog.views.userList.UserListViewModel" />
     </data>
 
     <androidx.recyclerview.widget.RecyclerView
