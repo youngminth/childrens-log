@@ -12,6 +12,7 @@ import com.youngminth.childrensLog.R
 import com.youngminth.childrensLog.databinding.FragmentUserDetailsBinding
 import dagger.hilt.android.AndroidEntryPoint
 
+@Deprecated("삭제예정")
 @AndroidEntryPoint
 class UserDetailsFragment : Fragment() {
     private val viewModel: UserDetailsViewModel by viewModels()

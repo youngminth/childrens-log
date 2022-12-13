@@ -13,7 +13,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Main">
         <activity
-            android:name="com.youngminth.childrensLog.MainActivity"
+            android:name="com.youngminth.childrensLog.LaunchSplashActivity"
+            android:theme="@style/Theme.Design.Light.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

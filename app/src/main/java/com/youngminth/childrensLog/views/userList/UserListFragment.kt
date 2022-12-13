@@ -13,6 +13,7 @@ import com.youngminth.childrensLog.databinding.FragmentUserListBinding
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
+@Deprecated("삭제예정")
 @AndroidEntryPoint
 class UserListFragment : Fragment() {
     private val viewModel: UserListViewModel by viewModels()
